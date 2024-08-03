@@ -27,7 +27,7 @@ services:
 
 
   neo4j:
-    image: neo4j:5.4-enterprise
+    image: neo4j:5.22.0
     ports:
       - "7474:7474"
       - "7687:7687"

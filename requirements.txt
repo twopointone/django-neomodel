@@ -1,2 +1,1 @@
-https://github.com/myplace/neomodel/commit/b3c1935f212972f5bd14d9a387cd79fab9a12109
 django~=4.2.8
